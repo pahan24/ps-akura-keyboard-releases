@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4.1",
-  "releaseNotes": "• Fixed permanent release signing key for seamless 1-tap OTA updates\n• Ultra-fast update checking with sub-second response time\n• System background update notifications for all future releases\n• In-Keyboard compact update pill for 1-tap instant updates\n• Ultra-fast live real-time translator (Google engine)\n• Vibrant multi-color gradient, radial, and frosted glass themes",
+  "versionCode": 7,
+  "versionName": "1.5.0",
+  "releaseNotes": "• Brand New Magic Stickers: Auto-generates 15 stunning graphic stickers from any typed text with 1-tap send\n• Clean Suggestion Strip: Zero random words when not typing, clean quick utility shortcuts\n• Smart Self-Learning Dictionary: Prioritizes words you frequently type\n• Redesigned Luxury App Logo & PRO branding card\n• Permanent release signing key for seamless conflict-free updates",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
