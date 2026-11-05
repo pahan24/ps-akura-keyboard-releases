@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.0",
-  "releaseNotes": "• System Notification alert when a new update is released\n• In-Keyboard compact update pill for 1-tap instant update\n• Ultra-fast live real-time translator with Google translation engine\n• Vibrant multi-color gradient, radial, and frosted glass themes\n• Polished modern UI, bug fixes, and seamless OTA auto-update",
+  "versionCode": 6,
+  "versionName": "1.4.1",
+  "releaseNotes": "• Fixed permanent release signing key for seamless 1-tap OTA updates\n• Ultra-fast update checking with sub-second response time\n• System background update notifications for all future releases\n• In-Keyboard compact update pill for 1-tap instant updates\n• Ultra-fast live real-time translator (Google engine)\n• Vibrant multi-color gradient, radial, and frosted glass themes",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
