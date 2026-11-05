@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "releaseNotes": "• Multi-Page App Architecture (Home, Themes Studio, Translator, Clipboard, Settings)\n• Themes Studio with Live Preview, Border Toggle & 17 Free Themes (Color, Gradient, Radial, Border, Custom Wallpaper)\n• Exact Helakuru & Modern UI styling with 4-square brand menu\n• Accurate Sinhala Phonetic typing with Natural letters (ද, ඩ, ත, ට, etc.)\n• In-Keyboard Real-Time Translator (10+ Languages)\n• Voice Typing with upfront microphone permission\n• Smart Clipboard with Pinning & 6-hour auto-clean\n• Direct In-App OTA Auto-Updater without Play Store",
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "releaseNotes": "• Rebranded to PS Keyboard with Brand New Luxury App Icon\n• Redesigned and Polished Modern In-App UI & Dashboard\n• Themes Studio with Live Interactive Keyboard Preview & 17 Free Themes\n• Accurate Natural Sinhala Phonetic Converter (ද, ඩ, ත, ට, ඥ, ඤ, etc.)\n• In-Keyboard Real-Time Translator (10+ Languages)\n• Smart Clipboard with Pinning & 6-Hour Auto-Expiration\n• Voice Typing with Auto-Language Detection\n• 1-Click In-App Direct Auto-Updater",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
