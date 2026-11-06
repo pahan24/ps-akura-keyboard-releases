@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.7.1",
-  "releaseNotes": "• Ultra-Modern Glassmorphic Luxury Design with rounded corners (No sharp boxy edges)\n• Redesigned Floating Glass Logo Badge with glowing neon halo\n• Smart First-Time Setup Wizard: Runs on fresh install, automatically bypassed on updates so existing users are never interrupted\n• Modern Step Indicator with smooth rounded glass capsules\n• Enhanced 100% Free VIP Experience on PS Board",
+  "versionCode": 11,
+  "versionName": "1.7.2",
+  "releaseNotes": "• Text-Contour Die-Cut Stickers: True typography silhouette cutout with 3D shadow and decorative sparkles/hearts/stars\n• Setup Wizard Step 2 & 3 Fix: Instant IME selection detection, manual skip fallback & sleek app overview\n• Complete World Emoji Suite: 1,000+ pristine Unicode 15.1 emojis across all 9 categories\n• Smart Clipboard with Screenshot Auto-Detection: Screenshots automatically captured and saved\n• Instant Live Translator: Clean placeholder, offline 250+ phrase cache & high-speed multi-engine fallback\n• Proactive Background Update Alerts: Automatic system notifications when new releases arrive",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
