@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.5.0",
-  "releaseNotes": "• Brand New Magic Stickers: Auto-generates 15 stunning graphic stickers from any typed text with 1-tap send\n• Clean Suggestion Strip: Zero random words when not typing, clean quick utility shortcuts\n• Smart Self-Learning Dictionary: Prioritizes words you frequently type\n• Redesigned Luxury App Logo & PRO branding card\n• Permanent release signing key for seamless conflict-free updates",
+  "versionCode": 8,
+  "versionName": "1.6.0",
+  "releaseNotes": "• Luxury Splash Screen with logo branding upon app open\n• Fixed Theme Selection crash with instant 1-tap keyboard theme apply\n• Complete 9 Unicode World Emoji categories with 600+ emojis\n• Authentic Die-Cut Stickers (Presets, Greetings, Custom, Recent) with auto-clear of typed text\n• Redesigned In-Keyboard Translator with Copied Message card, live toggles, and quick language pills\n• Smart Categorized Clipboard with URL detection, relative timestamps, and 6-hour auto-clean",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
