@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.6.0",
-  "releaseNotes": "• Luxury Splash Screen with logo branding upon app open\n• Fixed Theme Selection crash with instant 1-tap keyboard theme apply\n• Complete 9 Unicode World Emoji categories with 600+ emojis\n• Authentic Die-Cut Stickers (Presets, Greetings, Custom, Recent) with auto-clear of typed text\n• Redesigned In-Keyboard Translator with Copied Message card, live toggles, and quick language pills\n• Smart Categorized Clipboard with URL detection, relative timestamps, and 6-hour auto-clean",
+  "versionCode": 9,
+  "versionName": "1.7.0",
+  "releaseNotes": "• App renamed to PS Board with sleek branding\n• Proactive Push Notification when an update is released before tapping Check\n• Setup Wizard with Enable, Switch, and Personalize steps (Images 1-3)\n• Modern Main Dashboard & Side Navigation Drawer (Images 4-5)\n• 3-Second Splash Loading Screen\n• Smart English predictive suggestions with fast self-learning frequency ranking\n• Symmetrical edge-to-edge World Emoji panel (zero right-side gap)\n• Dynamic In-Keyboard Translator with automatic copied message pickup and 11 languages\n• Artistic Die-Cut Stickers in English & Sinhala (wavy, starburst, cloud, bubble) with auto-clearing typed text\n• Clipboard screenshot capture & preview support",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
