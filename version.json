@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.7.4",
-  "releaseNotes": "• WhatsApp Status Saver 100% Detection Fix: Full multi-path scan + Android 11-15 Storage Access Framework (SAF) folder picker integration for guaranteed status detection & saving\n• Removed 'Open WhatsApp' from Status Saver page with dedicated 'Grant Status Folder Access' & 'Refresh'\n• Stream-Based Gallery Saver: High-speed saving to Pictures/PS_Board_Statuses with instant MediaStore indexing\n• Video Status Preview & Direct Media Player playback\n• Refined Glassmorphism UI: Emerald neon accents, status counters, rounded 16dp luxury cards",
+  "versionCode": 14,
+  "versionName": "1.8.0",
+  "releaseNotes": "• 3 New Akura Pro Themes: Midnight (Pro Dark), Snow (Pro Light), Emerald (Pro Green) with dynamic luminance & contrast\n• Universal Density Scaling: Auto-scales padding, fonts and keys cleanly across all screen densities\n• Touch Ripple Feedback: Physical key press animation using theme keyPressedColor\n• Singlish Engine v2: Fixed diphthongs (kai/kau), W as consonant (dewwa/swaamiyaa), uppercase & C key mappings\n• Synchronized Key Hints: What keys show is exactly what they type\n• Smart Prediction Engine: Helakuru-style fuzzy skeleton matching + privacy protection (no password/OTP logging)\n• Action-Aware Enter Key: Triggers Send, Search, Go, Next & Done properly\n• In-Keyboard Translator v2: Language auto-detection, multi-engine fallback & text replacement\n• WhatsApp Status Saver: 100% universal SAF folder detection & 1-tap gallery saving",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
