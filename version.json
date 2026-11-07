@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "2.5.0",
-  "releaseNotes": "• RGB Mechanical Keyboard Lighting FX: Dynamic multi-color wave and ripple shockwaves on keypresses\n• Dynamic App Chameleon Theme: Auto-adapts keyboard colors to foreground apps (WhatsApp, YouTube, Telegram, Facebook, Spotify, X)\n• Font Customizer: Choose between Modern Medium, Tech Condensed, Casual Rounded, Cyber Mono, and Classic Serif fonts\n• Shift & CapsLock Bug Fix: Accurate lowercase vs uppercase letter visibility and double-tap CapsLock\n• Smart Contextual Emojis & Clean 4-Word Chips: Instant emoji popups on words ('love', 'tea', 'hina') and spacious prediction pills\n• 1-Hour Auto-Expire Clipboard: Automatically cleans up unpinned clips after 1 hour with full manual deletion",
+  "versionCode": 24,
+  "versionName": "2.5.3",
+  "releaseNotes": "• Wallpaper Aspect Crop & Positioning: Custom 2:1 crop dialog with interactive vertical alignment slider (Top, Center, Bottom presets) and real-time contrast preview\n• Theme Studio Preview Auto-Save Fix: Switching colors and swatches updates the live preview keyboard in real time without overwriting the active keyboard until 'Save Theme' is clicked\n• Launcher Icon White Squircle Fix: Added full Android 8.0+ adaptive icon configuration (ic_launcher.xml, ic_launcher_round.xml, ic_launcher_background) to eliminate white borders\n• Shift & CapsLock Polish: Outlined arrow (⇧) for lowercase, filled arrow (⬆) for single shift, and underline glyph (⇪) for double-tap CapsLock\n• Return Carriage Enter Key: Unified '↵' return glyph matching modern chat apps\n• Frosted Glass Alpha: Wallpaper and animations glow through keys with adjustable scrim filter",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
