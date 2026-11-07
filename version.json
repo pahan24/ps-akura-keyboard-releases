@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "2.5.5",
-  "releaseNotes": "• Eliminated Double Border Around In-App Logo: Removed default layout strokes across starts/splash page, toolbar, wizard, drawer, and about dialog so the PS Board emblem displays cleanly with its single authentic border\n• Full App Rounded Corners ('Okkoma Rawn'): Enhanced all cards, headers, dialogs, action tiles, and keyboard preview frames to 22dp-32dp luxurious smooth rounded curves with zero sharp corners\n• 2048x2048 Ultra-HD Master Logo Artifacts: Generated high-resolution 2048x2048 Master PNG and transparent alpha-cutout PNG with boosted sharpness and clarity",
+  "versionCode": 127,
+  "versionName": "1.0.127",
+  "releaseNotes": "Fixed floating keyboard bottom docking, glide gesture typing, mechanical sound packs, 51k+ offline multilingual dictionary, and seamless borderless launcher icon",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
