@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.7.3",
-  "releaseNotes": "• Multi-Word Die-Cut Stickers: 3 to 4 words now render together in balanced, huge 512x512 WhatsApp stickers with 3D shadow contour & decorative sparkles\n• WhatsApp Status Saver: Built-in 1-tap Photo & Video Status Downloader with Auto-Save to Gallery\n• Screenshot Auto-Detection Fix: Added runtime media permissions & case-insensitive MediaStore scanning\n• Universal Android Phone Optimization: High efficiency RGB_565 decoding for smooth performance on all devices",
+  "versionCode": 13,
+  "versionName": "1.7.4",
+  "releaseNotes": "• WhatsApp Status Saver 100% Detection Fix: Full multi-path scan + Android 11-15 Storage Access Framework (SAF) folder picker integration for guaranteed status detection & saving\n• Removed 'Open WhatsApp' from Status Saver page with dedicated 'Grant Status Folder Access' & 'Refresh'\n• Stream-Based Gallery Saver: High-speed saving to Pictures/PS_Board_Statuses with instant MediaStore indexing\n• Video Status Preview & Direct Media Player playback\n• Refined Glassmorphism UI: Emerald neon accents, status counters, rounded 16dp luxury cards",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
