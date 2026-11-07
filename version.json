@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "2.2.0",
-  "releaseNotes": "• Universal Long Paragraph Translator: Multi-paragraph chunking & HTTP POST (Zero freezes/halts on large essays)\n• Fixed 'trackball' text bug in Emoji Panel -> 🖲️\n• Added 10th Universal Symbols category (★) with complete world math, currency, brackets, arrows & Sinhala marks (෴, ।)\n• Spatial Neomorphism UI: Deep Obsidian Black (#07080A), Electric Green (#00FF66) & Crisp White (#FFFFFF)\n• WhatsApp Status Saver & Magic 3D Die-Cut Stickers fully optimized",
+  "versionCode": 18,
+  "versionName": "2.3.0",
+  "releaseNotes": "• Animated 3D Die-Cut Stickers: Live breathing pulses, glowing neons, and bounce effects\n• Diverse Font Typography for Stickers: Bubble Comic, Cursive Script, Cyberpunk Mono, Elegant Serif & Heavy 3D\n• PC Web Interactive Simulator: Test PS Board directly in Chrome/Edge on PC with physical keyboard (no phone or emulator needed)\n• 100% Preserved Features: WhatsApp Status Saver, Paragraph Translator, Universal Symbols & Privacy Controls",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
