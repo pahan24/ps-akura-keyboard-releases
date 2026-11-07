@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "2.0.0",
-  "releaseNotes": "• PS Board v2.0.0 Major Upgrade\n• 6 Luxury Modern Themes: Midnight Indigo, Graphite Mint, Porcelain Light, Ocean Slate, Rose Quartz, Aurum Black\n• High-Frequency Sinhala Dictionary & Colloquial Mappings with English collision keys removed\n• Next-Word Bigram Prediction (mama -> gedara, yanawa)\n• Auto-Correct Undo on Backspace: instantly restores typed phonetic draft\n• Dedicated Input-Type Layouts: Number Pad for digits/phone, @ & .com for Email, / & .com for URLs\n• Enhanced Privacy Protection: Sensitive password fields disable learning, suggestions, clipboard preview & live translation\n• Cursor Tools & Selection D-Pad (Select All, Copy, Paste, Arrows)\n• Expanded 500+ Offline Conversational Phrasebook + Translation History & Favorites\n• Top Number Row & Double-Tap Space for Period (. ) settings\n• Battery & Data-saving 12h background update schedule with allowBackup=false\n• 100% Preserved WhatsApp Status Saver (Universal SAF) & Die-Cut 3D Contour Multi-Word Stickers",
+  "versionCode": 16,
+  "versionName": "2.1.0",
+  "releaseNotes": "• Brand New Electric Green, Deep Obsidian Black & White Spatial Neomorphic UI\n• Official Kepler / Nano-Banana style PS Board HD Launcher Icon\n• New 'PS Electric Green' Signature Theme with tactile spatial neomorphic depth\n• Updated App Logo across Splash Screen, Setup Wizard & Headers\n• 100% Preserved Features: Universal WhatsApp Status Saver, Die-Cut 3D Multi-Word Stickers, Bigram Predictions, Auto-Correct Undo & Complete Privacy Controls",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
