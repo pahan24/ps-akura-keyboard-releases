@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.4.0",
-  "releaseNotes": "• 100% Helakuru Sinhala Mapping: 'q' key natively types 'ද' with 'ද' keycap hint, 'Q' types 'ධ'\n• Harmonized Phonetic Rules: 'd' & 'q' -> ද, 'D' -> ඩ, 't' -> ට, 'th' -> ත, 'T' -> ඨ, 'Th' -> ථ, 'dh' -> ධ\n• Google Play Store Security & Policy Compliance: Safe installer redirect to Play Store, strict Scoped Storage (SAF), zero password logging\n• PC Web Simulator 100% Synced with Helakuru mappings and physical keyboard support",
+  "versionCode": 21,
+  "versionName": "2.5.0",
+  "releaseNotes": "• RGB Mechanical Keyboard Lighting FX: Dynamic multi-color wave and ripple shockwaves on keypresses\n• Dynamic App Chameleon Theme: Auto-adapts keyboard colors to foreground apps (WhatsApp, YouTube, Telegram, Facebook, Spotify, X)\n• Font Customizer: Choose between Modern Medium, Tech Condensed, Casual Rounded, Cyber Mono, and Classic Serif fonts\n• Shift & CapsLock Bug Fix: Accurate lowercase vs uppercase letter visibility and double-tap CapsLock\n• Smart Contextual Emojis & Clean 4-Word Chips: Instant emoji popups on words ('love', 'tea', 'hina') and spacious prediction pills\n• 1-Hour Auto-Expire Clipboard: Automatically cleans up unpinned clips after 1 hour with full manual deletion",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
