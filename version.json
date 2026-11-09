@@ -1,6 +1,6 @@
 {
-  "versionCode": 131,
-  "versionName": "1.0.131",
-  "releaseNotes": "• Complete bottom-docking & screen proportion fix across all Android phones (Xiaomi/HyperOS, Samsung OneUI, Pixel, Vivo, Oppo)\n• Clean standard AOSP InputMethodService window lifecycle with dynamic navigation bar insets\n• Grounded compact height calibration (Level 1: 215dp) eliminating high floating gaps\n• Unified single-layer root layout with responsive edge padding",
+  "versionCode": 132,
+  "versionName": "1.0.132",
+  "releaseNotes": "• Triple-lock bottom docking fix preventing keyboard from ever opening at the top of the screen\n• Enforced FrameLayout.LayoutParams Gravity.BOTTOM on input view and WindowManager attributes\n• Restored beloved baseline layout heights (Toolbar: 40dp, Suggestions: 36dp, Keys: 245dp)\n• Standardized IME window floating attributes and lifecycle",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
