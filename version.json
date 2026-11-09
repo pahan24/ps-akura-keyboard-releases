@@ -1,6 +1,6 @@
 {
-  "versionCode": 130,
-  "versionName": "1.0.130",
-  "releaseNotes": "• Permanent bottom-docking fix with dedicated Theme.PSKeyboard.Service (android:Theme.InputMethod) ensuring zero screen gaps across all devices\n• Completely removed custom wallpaper / gallery image feature as requested for maximum speed, security, and stability\n• Fixed phone launcher home screen icon with multi-density mipmap adaptive layers, eliminating white squircle borders on MIUI/HyperOS",
+  "versionCode": 131,
+  "versionName": "1.0.131",
+  "releaseNotes": "• Complete bottom-docking & screen proportion fix across all Android phones (Xiaomi/HyperOS, Samsung OneUI, Pixel, Vivo, Oppo)\n• Clean standard AOSP InputMethodService window lifecycle with dynamic navigation bar insets\n• Grounded compact height calibration (Level 1: 215dp) eliminating high floating gaps\n• Unified single-layer root layout with responsive edge padding",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
