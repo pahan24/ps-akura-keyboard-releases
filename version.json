@@ -1,6 +1,6 @@
 {
-  "versionCode": 132,
-  "versionName": "1.0.132",
-  "releaseNotes": "• Triple-lock bottom docking fix preventing keyboard from ever opening at the top of the screen\n• Enforced FrameLayout.LayoutParams Gravity.BOTTOM on input view and WindowManager attributes\n• Restored beloved baseline layout heights (Toolbar: 40dp, Suggestions: 36dp, Keys: 245dp)\n• Standardized IME window floating attributes and lifecycle",
+  "versionCode": 133,
+  "versionName": "1.0.133",
+  "releaseNotes": "• Completely eliminated custom floating/translucent window flags and overrides\n• Restored 100% native Android AOSP Theme.InputMethod docking architecture\n• Keyboard now strictly locks to the bottom across all phones and OEMs\n• Clean baseline toolbar and keys layout structure",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
