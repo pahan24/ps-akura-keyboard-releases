@@ -1,6 +1,6 @@
 {
-  "versionCode": 137,
-  "versionName": "1.0.137",
-  "releaseNotes": "• Real Vector Icons: Replaced emoji characters on keys & toolbar with sleek native vector drawables (backspace, shift, enter, globe, mic, clipboard, sparkles)\n• Unified Emoji & Symbols Hub: Integrated 15,000+ Unicode symbols, Kaomojis and Emojis into one panel with top tab switcher\n• Smooth Panel Scrolling: Resolved scroll interception; buttery smooth vertical and horizontal scrolling\n• Dynamic Liquid Sloshing & Snow Tilt: Realistic phone tilt angle water sloshing, splash ripples, lightning flash, and frosted translucent keys",
+  "versionCode": 138,
+  "versionName": "1.0.138",
+  "releaseNotes": "• 20,000+ Worldwide Unicode Symbols: Ancient Egyptian Hieroglyphs (𓂀), Bamum (𖠁), Mesopotamian Cuneiform (𒈞), Bio & Nickname Flourishes (᭄), Runes, Astrology & Antique Sinhala\n• Pure Monochrome Symbols: Zero color emoji leakage in the symbols grid; sleek theme-colored glyph rendering\n• Smooth 6-Column Grid: Butter-smooth touch scrolling with reactive ripple feedback\n• In-App Symbols Studio: Browse, copy, and explore all 20,000+ symbols directly from the app home screen",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
