@@ -1,6 +1,6 @@
 {
-  "versionCode": 139,
-  "versionName": "1.0.139",
-  "releaseNotes": "• Auto Background Update Alerts: Automatic background checking via Android JobScheduler & Boot Receiver alerts you instantly when an update is released without opening the app\n• Custom 'PSB' Notification Icon: Replaced 4-squares icon with sleek monochrome 'PSB' keycap vector drawable in notification bar\n• Real-Time Fast CDN Sync: 15-minute smart keyboard activity checks and 1-tap instant OTA download & install",
+  "versionCode": 140,
+  "versionName": "1.0.140",
+  "releaseNotes": "• Persistent Language Reopen: Closing and reopening the keyboard from Emoji, Stickers, or Symbols panels now always directly restores your last used typing mode (Sinhala or English)\n• 2-3 Word Multi-Line Die-Cut Stickers: Smart balanced vertical stacking for 2-3 word phrases across 24+ artistic sticker themes\n• Quick 2-3 Word Phrase Ribbon: Instant 1-tap generation of popular Sinhala & English phrases in dozens of creative styles",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
