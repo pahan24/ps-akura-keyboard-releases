@@ -1,6 +1,6 @@
 {
-  "versionCode": 134,
-  "versionName": "1.0.134",
-  "releaseNotes": "• Fixed GlideFrameLayout wrap_content height bug that caused full-screen inflation\n• Enforced strict 245dp height limit on glide container & onMeasure safeguard\n• Keyboard now permanently occupies natural compact height (~290px) docked to bottom\n• Clean baseline toolbar and keys layout structure",
+  "versionCode": 136,
+  "versionName": "1.0.136",
+  "releaseNotes": "• Theme Studio Decoupling: themes now apply to keyboard ONLY when clicking Save/Apply Theme\n• Live Theme Studio Preview: animated particle engine (rain tilt, snow, matrix) and RGB wave live in-app\n• 10 Brand New Luxury Designer Themes: Cyber Matrix, Ice Glacier, Neon Sunset, Royal Amethyst, etc.\n• Interactive preview keys with sound, haptic and ripple feedback",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
