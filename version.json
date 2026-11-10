@@ -1,6 +1,6 @@
 {
-  "versionCode": 136,
-  "versionName": "1.0.136",
-  "releaseNotes": "• Theme Studio Decoupling: themes now apply to keyboard ONLY when clicking Save/Apply Theme\n• Live Theme Studio Preview: animated particle engine (rain tilt, snow, matrix) and RGB wave live in-app\n• 10 Brand New Luxury Designer Themes: Cyber Matrix, Ice Glacier, Neon Sunset, Royal Amethyst, etc.\n• Interactive preview keys with sound, haptic and ripple feedback",
+  "versionCode": 137,
+  "versionName": "1.0.137",
+  "releaseNotes": "• Real Vector Icons: Replaced emoji characters on keys & toolbar with sleek native vector drawables (backspace, shift, enter, globe, mic, clipboard, sparkles)\n• Unified Emoji & Symbols Hub: Integrated 15,000+ Unicode symbols, Kaomojis and Emojis into one panel with top tab switcher\n• Smooth Panel Scrolling: Resolved scroll interception; buttery smooth vertical and horizontal scrolling\n• Dynamic Liquid Sloshing & Snow Tilt: Realistic phone tilt angle water sloshing, splash ripples, lightning flash, and frosted translucent keys",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
