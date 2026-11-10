@@ -1,6 +1,6 @@
 {
-  "versionCode": 133,
-  "versionName": "1.0.133",
-  "releaseNotes": "• Completely eliminated custom floating/translucent window flags and overrides\n• Restored 100% native Android AOSP Theme.InputMethod docking architecture\n• Keyboard now strictly locks to the bottom across all phones and OEMs\n• Clean baseline toolbar and keys layout structure",
+  "versionCode": 134,
+  "versionName": "1.0.134",
+  "releaseNotes": "• Fixed GlideFrameLayout wrap_content height bug that caused full-screen inflation\n• Enforced strict 245dp height limit on glide container & onMeasure safeguard\n• Keyboard now permanently occupies natural compact height (~290px) docked to bottom\n• Clean baseline toolbar and keys layout structure",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
