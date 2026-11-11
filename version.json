@@ -1,9 +1,9 @@
 {
-  "versionCode": 145,
-  "versionName": "1.0.145",
+  "versionCode": 146,
+  "versionName": "1.0.146",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Silent Background Auto-Reporting: Automatic zero-disruption crash & bug reporting to Telegram Bot and Google Sheets Webhook\n• Daily & On-Crash Auto Sync: Instant diagnostic reporting on crash, boot, power, or daily background checks without bothering the user\n• Prominent Sinhala Phonetic Keyboard: High-visibility bold Sinhala letters (18.5sp) displayed as primary key glyphs with subtle Latin phonetic hints\n• Dedicated Kaomoji Hub: 105+ high-expressivity Japanese kaomojis separated into their own dedicated panel tab without polluting emojis or unicode symbols\n• Streamlined WhatsApp Status Saver: 100% dedicated to WhatsApp statuses with direct saving to Pictures/PS_Board_Statuses",
+  "releaseNotes": "• Pure Original Sinhala Phonetic Engine: Rebuilt UCSC/Helakuru standard Singlish converter from the ground up with real-time Rakaranshaya (ක්‍ර, ප්‍ර, ත්‍ර), Yanshaya (ක්‍ය, ම්‍ය), and intelligent Anusvaraya/Binduma virama-stripping\n• Refined Sinhala Key Layout: Prominent English letter as primary key with clean small Sinhala phonetic hint on top (udin podiwata)\n• Dual Silent Auto-Reporting: Background crash and diagnostic telemetry to verified Telegram Chat ID and Google Sheets Webhook\n• Dedicated Kaomoji Hub: 105+ unique Japanese kaomojis in isolated tab",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
