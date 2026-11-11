@@ -1,6 +1,6 @@
 {
-  "versionCode": 141,
-  "versionName": "1.0.141",
-  "releaseNotes": "• Ultra-Compact Landscape & Gaming Height: Keyboard auto-resizes to slim ~40% screen height in landscape mode with orientation listeners so games and video remain fully visible\n• Zero-Latency Typing: 500x faster prefix indexed dictionary lookup and in-place shift un-shifting eliminating keystroke lag\n• SoundPool Audio Engine: Instant keystroke clicks (Mechanical, iPhone, Bubble, Wood, Default) working live across all Android versions, default sound MUTED/OFF\n• Butter-Smooth Live Themes: Choreographer VSYNC 60FPS sync, zero-allocation ripple pooling, and cached shaders preventing freezing/stutter\n• Reliable Background Auto-Update Notifications: Inexact AlarmManager and Boot/Power receivers for dependable background alerts",
+  "versionCode": 142,
+  "versionName": "1.0.142",
+  "releaseNotes": "• Multi-Word Die-Cut Magic Stickers: Full support for 3, 4, 5+ word phrases in Sinhala & English with smart 2x2 grid balancing and iterative dynamic auto-scaling preventing clipping\n• Crystal-Clear PSB Status Icon: Bold, frame-free vector typography ensuring the PSB icon is sharp and clearly visible in Android status bar notifications\n• Language Switch Hint Fix: Fixed letter corruption bug when switching between Sinhala and English layouts\n• Single Keyboard Window Guard: Safe view detachment and window state handling preventing duplicate or overlapping keyboard instances\n• Zero-Telemetry Crash & Bug Reporter: Automatic diagnostic report generation with 1-tap WhatsApp/Share log sharing in Settings",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
