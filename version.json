@@ -1,6 +1,6 @@
 {
-  "versionCode": 142,
-  "versionName": "1.0.142",
-  "releaseNotes": "• Multi-Word Die-Cut Magic Stickers: Full support for 3, 4, 5+ word phrases in Sinhala & English with smart 2x2 grid balancing and iterative dynamic auto-scaling preventing clipping\n• Crystal-Clear PSB Status Icon: Bold, frame-free vector typography ensuring the PSB icon is sharp and clearly visible in Android status bar notifications\n• Language Switch Hint Fix: Fixed letter corruption bug when switching between Sinhala and English layouts\n• Single Keyboard Window Guard: Safe view detachment and window state handling preventing duplicate or overlapping keyboard instances\n• Zero-Telemetry Crash & Bug Reporter: Automatic diagnostic report generation with 1-tap WhatsApp/Share log sharing in Settings",
+  "versionCode": 143,
+  "versionName": "1.0.143",
+  "releaseNotes": "• Pure Sinhala Phonetic Precision: Standardized Sinhala Singlish phonetic typing without dictionary overwrite on space; fixed capital I to ඊ/ී, Aa to ඈ/ෑ, ndh to ඳ, ng to ඟ\n• Scroll Preservation & Auto-Centering in Emoji & Symbols: Category ribbon smoothly centers selected tab and never snaps back to beginning\n• Massive Kaomoji Collection: Added 100+ cute and popular Japanese kaomojis across multiple categories\n• Reliable Background Auto-Update Notifications: Screen unlock and power broadcast triggers with AlarmManager setAndAllowWhileIdle for alerts without opening app\n• Smart English Auto-Capitalization: Keyboard automatically opens capitalized for English sentence start without affecting Sinhala\n• WhatsApp & WA Business Status Saver: Auto-detects statuses without manual folder access, saves into separate WhatsApp & WhatsApp Business folders with redesigned neon action buttons\n• Auto Crash Diagnostic Prompt: Proactive bug detection and 1-tap reporting",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
