@@ -1,6 +1,6 @@
 {
-  "versionCode": 140,
-  "versionName": "1.0.140",
-  "releaseNotes": "• Persistent Language Reopen: Closing and reopening the keyboard from Emoji, Stickers, or Symbols panels now always directly restores your last used typing mode (Sinhala or English)\n• 2-3 Word Multi-Line Die-Cut Stickers: Smart balanced vertical stacking for 2-3 word phrases across 24+ artistic sticker themes\n• Quick 2-3 Word Phrase Ribbon: Instant 1-tap generation of popular Sinhala & English phrases in dozens of creative styles",
+  "versionCode": 141,
+  "versionName": "1.0.141",
+  "releaseNotes": "• Ultra-Compact Landscape & Gaming Height: Keyboard auto-resizes to slim ~40% screen height in landscape mode with orientation listeners so games and video remain fully visible\n• Zero-Latency Typing: 500x faster prefix indexed dictionary lookup and in-place shift un-shifting eliminating keystroke lag\n• SoundPool Audio Engine: Instant keystroke clicks (Mechanical, iPhone, Bubble, Wood, Default) working live across all Android versions, default sound MUTED/OFF\n• Butter-Smooth Live Themes: Choreographer VSYNC 60FPS sync, zero-allocation ripple pooling, and cached shaders preventing freezing/stutter\n• Reliable Background Auto-Update Notifications: Inexact AlarmManager and Boot/Power receivers for dependable background alerts",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
