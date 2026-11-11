@@ -1,9 +1,9 @@
 {
-  "versionCode": 146,
-  "versionName": "1.0.146",
+  "versionCode": 147,
+  "versionName": "1.0.147",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Pure Original Sinhala Phonetic Engine: Rebuilt UCSC/Helakuru standard Singlish converter from the ground up with real-time Rakaranshaya (ක්‍ර, ප්‍ර, ත්‍ර), Yanshaya (ක්‍ය, ම්‍ය), and intelligent Anusvaraya/Binduma virama-stripping\n• Refined Sinhala Key Layout: Prominent English letter as primary key with clean small Sinhala phonetic hint on top (udin podiwata)\n• Dual Silent Auto-Reporting: Background crash and diagnostic telemetry to verified Telegram Chat ID and Google Sheets Webhook\n• Dedicated Kaomoji Hub: 105+ unique Japanese kaomojis in isolated tab",
+  "releaseNotes": "• True Helakuru Smart Phonetic System: Exact Helakuru key mapping with 'q' -> ද, 'd' -> ඩ, 't' -> ට, 'th'/'dha' -> ත/ද, 'A' -> ඇ, 'aa' -> ආ, 'Aa'/'AA' -> ඈ\n• Accurate Phonetic Key Hints: Clean English letter below with small Helakuru Sinhala hint on top (q shows ද, d shows ඩ, t shows ට)\n• Full Digraph & Sanyaka Support: Real-time nq/ndh -> ඳ, nd -> ඬ, ng -> ඟ, mb -> ඹ, nj -> ඦ, and Rakaranshaya (ක්‍ර, ද්‍ර, ඩ්‍ර, ප්‍ර, ත්‍ර)\n• Zero-Disruption Dual Auto-Reporting: Telegram Bot (8822982420) and Google Sheets logging active",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
