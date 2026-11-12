@@ -1,9 +1,9 @@
 {
-  "versionCode": 160,
-  "versionName": "1.0.160",
+  "versionCode": 161,
+  "versionName": "1.0.161",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Live Animation Snow & Lifecycle Fix: Zero crash or freeze when opening, closing and reopening keyboard\n• Instant None / Static Animation Selection: Tapping 'None' immediately saves and disables live animations with instant APPLIED confirmation\n• Robust Canvas NaN Protection: Completely prevents zero-dimension division bugs during keyboard open/close transitions",
+  "releaseNotes": "• Private Fleet Admin Suite: Integrated anonymous device heartbeat for live user analytics\n• Android Version Telemetry: Automatic registration of device model, Android OS version, and health metrics to Google Sheet & Admin Dashboard\n• Full Glassmorphic Web Admin Panel hosted on Cloudflare Pages",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
