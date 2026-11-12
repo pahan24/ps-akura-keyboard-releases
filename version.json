@@ -1,9 +1,9 @@
 {
-  "versionCode": 153,
-  "versionName": "1.0.153",
+  "versionCode": 154,
+  "versionName": "1.0.154",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Stickers Panel Overhaul: English category names (Trending, Greetings, Custom Text, Recent), removed sub-category clutter\n• Streamlined Custom Text: Generates die-cut stickers directly from typed text draft without cramped inline input box\n• 100% Reliable Visible Sticker Delivery: Universal transparent PNG stickers with explicit URI read permissions for WhatsApp, Telegram & Messenger (never invisible/blank)\n• English App UI: All settings labels, search filters, and dialogues converted to crisp professional English",
+  "releaseNotes": "• True Animated Stickers: Animated GIFs actually animate in WhatsApp & Telegram chats with Netscape 2.0 looping\n• Multi-Word Phrase Stickers: Full support for 3-4+ words phrases with balanced line-wrapping and '✏️ Custom Words' quick composer\n• PS Secret Cipher Shield (🔐): Military-grade 256-bit AES encrypted secret messages with 1-tap encryption/decryption in chat and auto clipboard detection",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
