@@ -1,9 +1,9 @@
 {
-  "versionCode": 154,
-  "versionName": "1.0.154",
+  "versionCode": 155,
+  "versionName": "1.0.155",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• True Animated Stickers: Animated GIFs actually animate in WhatsApp & Telegram chats with Netscape 2.0 looping\n• Multi-Word Phrase Stickers: Full support for 3-4+ words phrases with balanced line-wrapping and '✏️ Custom Words' quick composer\n• PS Secret Cipher Shield (🔐): Military-grade 256-bit AES encrypted secret messages with 1-tap encryption/decryption in chat and auto clipboard detection",
+  "releaseNotes": "• Vector Code Toolbar Lock: Replaced emoji with clean vector drawable icon matching professional UI styling\n• Ultra-Compact PS:... Cipher: In-place 1-tap encryption (no panels), transforms typed text instantly into a short PS:code\n• Auto-Decryption in Suggestions Bar: Recipients copying a PS:... message immediately see the decrypted text right above the keyboard\n• Auto-dismiss on Typing: Decrypted banner vanishes instantly the moment you type any character or dismiss keyboard\n• Universal Multi-Language: 100% loss-free encryption & decryption for Sinhala, English, Tamil, Emojis, numbers, multi-line",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
