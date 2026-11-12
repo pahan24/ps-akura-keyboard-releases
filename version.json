@@ -1,9 +1,9 @@
 {
-  "versionCode": 158,
-  "versionName": "1.0.158",
+  "versionCode": 159,
+  "versionName": "1.0.159",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Border Customizer with None Option: Clean borderless keys by default; select None, 1dp, 2dp or 3dp borders\n• Kaluwara (Pitch Black OLED) Default Theme: Ultra-sleek pure black background with graphite keys and zero borders\n• 12 New Premium Designer Themes: Deep Ocean, Midnight Amethyst, Emerald Forest, Royal Crimson, and more\n• Fully English UI: Translated all app settings, theme names, and tutorials to clean professional English",
+  "releaseNotes": "• Smooth Cursor Editing: Fixed cursor repositioning in the middle of sentences so editing happens directly at cursor\n• Instant 3-4 Word Custom Stickers: Generated directly from what you type in chat with zero extra input boxes\n• Lowercase Sinhala Default: Switching from English to Sinhala strictly starts in simple/lowercase mode\n• Live Themes Lag Fix & Tilt Physics: Hardware-accelerated ~38 FPS frame limiting eliminates freezing, realistic snow & water physics with speed control\n• Updated Numeric & Symbols Keypads: Matches exact 4-row contact dialer and 2-page symbol layout from screenshots\n• Instant Update Notifications: Auto-fires rich notification when an update is available",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
