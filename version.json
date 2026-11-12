@@ -1,9 +1,9 @@
 {
-  "versionCode": 149,
-  "versionName": "1.0.149",
+  "versionCode": 150,
+  "versionName": "1.0.150",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• FUTO-Enhanced Layouts: Integrated FUTO mobile Sinhala (SLS 1134) layout with Yanshaya (්‍ය), Rakaranshaya (්‍ර), Rephaya (ර්‍), Kundaliya (෴)\n• FUTO Long-Press Sanyaka: Long press ද->ඳ, ග->ඟ, ජ->ඦ, ඩ->ඬ, ඤ->෴, ං->ඃ\n• Enhanced Symbols & Number Pad: 2-page symbols with FUTO math & arrow shortcuts (—, ±, №, ↑, ′, Ω, ★, «, ») and 4x5 arithmetic keypad (+, -, *, /, %)\n• True Helakuru Smart Phonetic System: 100% exact Helakuru layout & multi-letter combinations\n• Zero-Disruption Dual Auto-Reporting: Telegram Bot (8822982420) and Google Sheets active",
+  "releaseNotes": "• Phonetic Default & Settings Switcher: Default Sinhala typing is Singlish Phonetic; easily toggle or set Wijesekara SLS 1134 from App Settings\n• Sound & Vibration OFF by default: Completely silent and peaceful out of the box; crystal-clear SoundPool audio and haptics can be enabled in settings\n• Native Vector Icons: Replaced all emoji text placeholders across dashboard cards and settings with crisp, professional Material vector drawables\n• FUTO-Enhanced Layouts & Sanyaka Shortcuts: Complete mobile Wijesekara, long-press Sanyaka (ඳ, ඟ, ඦ, ඬ, ෴, ඃ), 2-page symbols & 4x5 number pad\n• Active Dual Auto-Reporting: Telegram Bot (8822982420) & Google Sheets logging verified 100%",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
