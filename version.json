@@ -1,9 +1,9 @@
 {
-  "versionCode": 156,
-  "versionName": "1.0.156",
+  "versionCode": 157,
+  "versionName": "1.0.157",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Pure PS:... Steganography: Zero visible codes! Encrypts any message into strictly 'PS:...' using invisible zero-width stealth encryption\n• Auto-Decryption in Suggestions Bar: Recipients copying 'PS:...' instantly see the original secret message in the suggestions bar\n• Instant Typing Dismiss: Decrypted badge vanishes immediately upon typing any character or closing keyboard\n• 100% Multi-Language: Loss-free support for Sinhala, English, Tamil, Emojis, numbers, multi-line",
+  "releaseNotes": "• Zero Typing Delay: Cached clipboard IPC and optimized suggestions pipeline for ultra-fast, stutter-free typing\n• 100% Reliable Stickers in WhatsApp & Chats: Universal transparent PNG sticker delivery so stickers always show crystal clear with no blank bubbles\n• 3-4 Word Custom Stickers: Multi-line balanced auto-scaling fits 3-4 words without clipping\n• Auto-Capitalization on Backspace: Reverts automatically to Capital/Shift when deleting back to empty input or sentence start\n• Sleek OLED Pitch Black Default Theme: Matches the dark graphite Gboard aesthetic with clean white accents and black return arrow",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
