@@ -1,9 +1,9 @@
 {
-  "versionCode": 159,
-  "versionName": "1.0.159",
+  "versionCode": 160,
+  "versionName": "1.0.160",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Smooth Cursor Editing: Fixed cursor repositioning in the middle of sentences so editing happens directly at cursor\n• Instant 3-4 Word Custom Stickers: Generated directly from what you type in chat with zero extra input boxes\n• Lowercase Sinhala Default: Switching from English to Sinhala strictly starts in simple/lowercase mode\n• Live Themes Lag Fix & Tilt Physics: Hardware-accelerated ~38 FPS frame limiting eliminates freezing, realistic snow & water physics with speed control\n• Updated Numeric & Symbols Keypads: Matches exact 4-row contact dialer and 2-page symbol layout from screenshots\n• Instant Update Notifications: Auto-fires rich notification when an update is available",
+  "releaseNotes": "• Live Animation Snow & Lifecycle Fix: Zero crash or freeze when opening, closing and reopening keyboard\n• Instant None / Static Animation Selection: Tapping 'None' immediately saves and disables live animations with instant APPLIED confirmation\n• Robust Canvas NaN Protection: Completely prevents zero-dimension division bugs during keyboard open/close transitions",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
