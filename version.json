@@ -1,9 +1,9 @@
 {
-  "versionCode": 148,
-  "versionName": "1.0.148",
+  "versionCode": 149,
+  "versionName": "1.0.149",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Complete Helakuru Smart Phonetic System: 100% exact Helakuru layout ('q' -> ද, 'd' -> ඩ, 't' -> ට, 'A' -> ඇ, 'aa' -> ආ, 'Aa'/'AA' -> ඈ)\n• Multi-letter Double Consonants & Conjuncts: 'mma' -> ම්ම, 'nna' -> න්න, 'ththa' -> ත්ත, 'tta' -> ට්ට, 'qqa' -> ද්ද, 'ksha' -> ක්‍ෂ\n• Helakuru 'z' Prefix Sanyaka: 'zga' -> ඟ, 'zda' -> ඬ, 'zqa' -> ඳ, 'zja' -> ඦ, 'zka' -> ඤ, 'zha' -> ඥ, 'Ba' -> ඹ\n• Clean Phonetic Key Hints: Primary English letter prominent with small Helakuru Sinhala hint on top\n• Zero-Disruption Dual Auto-Reporting: Telegram Bot (8822982420) and Google Sheets active",
+  "releaseNotes": "• FUTO-Enhanced Layouts: Integrated FUTO mobile Sinhala (SLS 1134) layout with Yanshaya (්‍ය), Rakaranshaya (්‍ර), Rephaya (ර්‍), Kundaliya (෴)\n• FUTO Long-Press Sanyaka: Long press ද->ඳ, ග->ඟ, ජ->ඦ, ඩ->ඬ, ඤ->෴, ං->ඃ\n• Enhanced Symbols & Number Pad: 2-page symbols with FUTO math & arrow shortcuts (—, ±, №, ↑, ′, Ω, ★, «, ») and 4x5 arithmetic keypad (+, -, *, /, %)\n• True Helakuru Smart Phonetic System: 100% exact Helakuru layout & multi-letter combinations\n• Zero-Disruption Dual Auto-Reporting: Telegram Bot (8822982420) and Google Sheets active",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
