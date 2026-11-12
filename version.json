@@ -1,9 +1,9 @@
 {
-  "versionCode": 152,
-  "versionName": "1.0.152",
+  "versionCode": 153,
+  "versionName": "1.0.153",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Animated Stickers & GIF Engine: Live in-keyboard floating, pulsing & wobbling animations; multi-frame Animated GIF89a generation for WhatsApp & Telegram\n• Enhanced 4 Category Studio: Trending Reactions (🔥 ජනප්‍රිය), Greetings & Wishes (🎉 සුබ පැතුම්), Custom Text Studio (✨ මගේ වචන), and Recent History (🕒 මෑතකදී)\n• Custom Sticker Creator: Inline custom text typing & preset chips to generate 24+ unique artistic animated styles for ANY custom word\n• Persistent Recents: Real-time saving of sent stickers so you can re-send your favorite stickers in 1 tap",
+  "releaseNotes": "• Stickers Panel Overhaul: English category names (Trending, Greetings, Custom Text, Recent), removed sub-category clutter\n• Streamlined Custom Text: Generates die-cut stickers directly from typed text draft without cramped inline input box\n• 100% Reliable Visible Sticker Delivery: Universal transparent PNG stickers with explicit URI read permissions for WhatsApp, Telegram & Messenger (never invisible/blank)\n• English App UI: All settings labels, search filters, and dialogues converted to crisp professional English",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
