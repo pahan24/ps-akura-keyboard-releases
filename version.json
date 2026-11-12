@@ -1,9 +1,9 @@
 {
-  "versionCode": 157,
-  "versionName": "1.0.157",
+  "versionCode": 158,
+  "versionName": "1.0.158",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Zero Typing Delay: Cached clipboard IPC and optimized suggestions pipeline for ultra-fast, stutter-free typing\n• 100% Reliable Stickers in WhatsApp & Chats: Universal transparent PNG sticker delivery so stickers always show crystal clear with no blank bubbles\n• 3-4 Word Custom Stickers: Multi-line balanced auto-scaling fits 3-4 words without clipping\n• Auto-Capitalization on Backspace: Reverts automatically to Capital/Shift when deleting back to empty input or sentence start\n• Sleek OLED Pitch Black Default Theme: Matches the dark graphite Gboard aesthetic with clean white accents and black return arrow",
+  "releaseNotes": "• Border Customizer with None Option: Clean borderless keys by default; select None, 1dp, 2dp or 3dp borders\n• Kaluwara (Pitch Black OLED) Default Theme: Ultra-sleek pure black background with graphite keys and zero borders\n• 12 New Premium Designer Themes: Deep Ocean, Midnight Amethyst, Emerald Forest, Royal Crimson, and more\n• Fully English UI: Translated all app settings, theme names, and tutorials to clean professional English",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
