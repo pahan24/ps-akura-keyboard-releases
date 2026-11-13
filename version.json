@@ -1,9 +1,9 @@
 {
-  "versionCode": 166,
-  "versionName": "1.0.166",
+  "versionCode": 167,
+  "versionName": "1.0.167",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Brand New Modern Pastel Glass UI & Smooth Animations\n• 100% English Companion App & Upgraded Pastel Loading Screen\n• Floating 3D Orb, Sparkle Animations, Bouncy Card Press & Smooth Page Transitions\n• All-In-One Smart Tools Suite & 100% On-Device Privacy Guaranteed",
+  "releaseNotes": "• Custom 3D Holographic Home Orb with 3-Layer Shockwaves & Orbital Rings\n• Mini Interactive QWERTY Keyboard Theme Cards with Instant One-Tap Apply\n• Smooth Gliding Pink Pill Floating Bottom Navigation Bar\n• Dedicated Full-Screen Pastel Sub-Pages for Settings & Diagnostics",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
