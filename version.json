@@ -1,9 +1,9 @@
 {
-  "versionCode": 161,
-  "versionName": "1.0.161",
+  "versionCode": 162,
+  "versionName": "1.0.162",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Private Fleet Admin Suite: Integrated anonymous device heartbeat for live user analytics\n• Android Version Telemetry: Automatic registration of device model, Android OS version, and health metrics to Google Sheet & Admin Dashboard\n• Full Glassmorphic Web Admin Panel hosted on Cloudflare Pages",
+  "releaseNotes": "• Complete UI & Navigation Overhaul: 5-tab floating curved glass bottom bar & sliding drawer\n• Brand New All-In-One Tools Suite: NIC Decoder, Unicode Sinhala ⇄ FM Abhaya Font Converter, Loan/Leasing EMI Calculator, Zakat Wealth Calculator, 2026/2027 Sri Lanka Poya & Holiday Calendar, Fancy Stylish Text Generator, PS Music Player\n• Keyboard Layout Refinements: Matched Symbol and Dialer Number Pad layouts exactly to specifications\n• 100% On-Device Privacy Guaranteed",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
