@@ -1,9 +1,9 @@
 {
-  "versionCode": 162,
-  "versionName": "1.0.162",
+  "versionCode": 163,
+  "versionName": "1.0.163",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Complete UI & Navigation Overhaul: 5-tab floating curved glass bottom bar & sliding drawer\n• Brand New All-In-One Tools Suite: NIC Decoder, Unicode Sinhala ⇄ FM Abhaya Font Converter, Loan/Leasing EMI Calculator, Zakat Wealth Calculator, 2026/2027 Sri Lanka Poya & Holiday Calendar, Fancy Stylish Text Generator, PS Music Player\n• Keyboard Layout Refinements: Matched Symbol and Dialer Number Pad layouts exactly to specifications\n• 100% On-Device Privacy Guaranteed",
+  "releaseNotes": "• Brand New Modern Pastel Glass UI & Smooth Animations\n• 100% English Companion App & Upgraded Pastel Loading Screen\n• Floating 3D Orb, Sparkle Animations, Bouncy Card Press & Smooth Page Transitions\n• All-In-One Smart Tools Suite & 100% On-Device Privacy Guaranteed",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
