@@ -1,9 +1,6 @@
 {
-  "versionCode": 170,
-  "versionName": "1.0.170",
-  "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
-  "telegramChatId": "8822982420",
-  "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Compact 3D Crystal Hero Orb with 24-Shard Spiraling Assembly Intro Animation, Triple Counter-Rotating Orbital Rings & Zero Inner Text\n• Live Animated Themes Miniature Keyboard Preview Cards with Real-Time Particle FX, 10+ New Radial Gradient Themes & 11 Font Styles\n• Custom PSB Neon Toolbar Badge, Pastel Glass You & Side Drawer Redesign with Custom Vector Icons & PS Devworks • Owner Branding\n• WhatsApp Status Saver Integrated into Tools Suite & Fixed Theme Card Instant Apply Persistence",
+  "versionCode": 171,
+  "versionName": "1.0.171",
+  "releaseNotes": "• Removed loading splash overlay and matched app launch background with pastel theme\n• Majestic slow-motion 3D crystal shard assembly intro animation\n• 1-tap direct theme apply without top save button, dynamic live animation speed & density controllers\n• Active tab title switching (My Keyboard, Themes, Tools, You) & removed amber crown badge",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
