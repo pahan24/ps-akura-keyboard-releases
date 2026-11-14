@@ -1,6 +1,6 @@
 {
-  "versionCode": 171,
-  "versionName": "1.0.171",
-  "releaseNotes": "• Removed loading splash overlay and matched app launch background with pastel theme\n• Majestic slow-motion 3D crystal shard assembly intro animation\n• 1-tap direct theme apply without top save button, dynamic live animation speed & density controllers\n• Active tab title switching (My Keyboard, Themes, Tools, You) & removed amber crown badge",
+  "versionCode": 172,
+  "versionName": "1.0.172",
+  "releaseNotes": "Transparent navigation bar, true frosted glass cards, isolated home greeting, clean headers",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
