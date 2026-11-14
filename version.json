@@ -1,6 +1,6 @@
 {
-  "versionCode": 173,
-  "versionName": "1.0.173",
-  "releaseNotes": "Robust 3-button system nav bar compatibility and responsive universal phone and tablet layout",
+  "versionCode": 174,
+  "versionName": "1.0.174",
+  "releaseNotes": "Transparent 3-button nav bar, single tool detail header, 2-col status saver card, flat frosted glass cards, upfront media permissions",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
