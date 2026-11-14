@@ -1,9 +1,9 @@
 {
-  "versionCode": 168,
-  "versionName": "1.0.168",
+  "versionCode": 169,
+  "versionName": "1.0.169",
   "telegramBotToken": "9198987142:AAGOZ9fvHDTpPTU6t_rOniSh-D35s74_f1g",
   "telegramChatId": "8822982420",
   "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbzKy0IL4VwtUahauoHZxSddvM7CFmitYkZW0D15_ddzxskp8TZuToannHbJmaiTC5Y/exec",
-  "releaseNotes": "• Ultra-Responsive Keyboard Touch Engine (Zero Dead-Zones, Multi-Touch Fast Typing & Reliable Spacebar)\n• Privacy-Safe Anonymous Device Heartbeat Telemetry for Live Fleet Analytics\n• Complete Pastel Glass Redesign for PS Board Admin Analytics Website & Real-Time Backend Sync Check",
+  "releaseNotes": "• Ultra-Smooth Floating Bottom Bar with 4 Balanced Tabs, Sleek Vector Outline Icons & Precision Gliding Active Pill Animation\n• 3D Holographic Hero Crystal Orb with Embossed Illuminated Sinhala Keycap, Traveling Orbital Energy Pearls & Sonic Ripples\n• Admin Analytics Suite Full-Width Desktop Layout Fix, Dynamic Live Telemetry Fleet Baseline & Universal POST Backend Sync\n• Clean Drawer & Tools Architecture with Zero Deprecated Financial Calculators",
   "apkUrl": "https://github.com/pahan24/ps-akura-keyboard-releases/raw/main/download/PS_Akura_AI_Keyboard.apk"
 }
